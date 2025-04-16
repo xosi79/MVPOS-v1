@@ -1,40 +1,69 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
+<h1 align="center">MVPOS – The MVP Dashboard OS 🚀</h1>
 
-## Getting Started
+<p align="center">
+  A clean, lightweight dashboard to help early-stage founders, no-code builders, and creative hackers <strong>track form submissions, analyze leads, and validate MVP ideas</strong> — fast.
+</p>
 
-First, run the development server:
+<hr>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<h3>🧠 Why MVPOS?</h3>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+<p>
+Too many idea-stage projects die in email inboxes or Google Sheets.<br>
+MVPOS is your plug-and-play backend — turn your Framer, Webflow, or Typedream form into a full submission tracker with:
+</p>
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<ul>
+  <li>📥 Form data synced to a dashboard</li>
+  <li>📝 Notes + lead conversion status</li>
+  <li>📊 Built-in mini analytics</li>
+</ul>
 
-[API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+<hr>
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/pages/building-your-application/routing/api-routes) instead of React pages.
+<h3>🔧 Stack</h3>
 
-This project uses [`next/font`](https://nextjs.org/docs/pages/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+<ul>
+  <li><strong>Next.js</strong> – Frontend + API routes</li>
+  <li><strong>Tailwind CSS</strong> – Clean, responsive UI styling</li>
+  <li><strong>Supabase</strong> – Auth & database</li>
+  <li><strong>Stripe</strong> – (Coming soon) Payments for pro features</li>
+</ul>
 
-## Learn More
+<hr>
 
-To learn more about Next.js, take a look at the following resources:
+<h3>✅ Features (Work in Progress)</h3>
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn-pages-router) - an interactive Next.js tutorial.
+<ul>
+  <li>✅ User auth via Supabase</li>
+  <li>✅ Form submission tracker</li>
+  <li>✅ Add notes to each submission</li>
+  <li>🕓 Conversion status toggles</li>
+  <li>🕓 Mini analytics dashboard</li>
+  <li>🕓 Stripe integration for Pro tier</li>
+  <li>🕓 Public-facing project view (optional)</li>
+</ul>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+<hr>
 
-## Deploy on Vercel
+<h3>🧪 Status</h3>
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<p>
+This project is currently being built <strong>in public</strong>.<br>
+Follow the journey → <a href="https://twitter.com/xovr_dev" target="_blank">@xovr.dev</a>
+</p>
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/pages/building-your-application/deploying) for more details.
+<hr>
+
+<h3>📄 License</h3>
+
+<p>
+MIT — use it, remix it, just don’t resell it as-is and call it your own.
+</p>
+
+<hr>
+
+<p align="center">
+  👨‍🔧 Built by <a href="https://twitter.com/xovr_dev" target="_blank">Xovr</a> — Fueled by freedom, fire, and the AMG dream.
+</p>
+
