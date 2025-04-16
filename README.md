@@ -64,6 +64,6 @@ MIT — use it, remix it, just don’t resell it as-is and call it your own.
 <hr>
 
 <p align="center">
-  👨‍🔧 Built by <a href="https://twitter.com/xovr_dev" target="_blank">Xovr</a> — Fueled by freedom, fire, and the AMG dream.
+  👨‍🔧 Built by <a href="https://twitter.com/xovr_dev" target="_blank">Xovr</a> 
 </p>
 
