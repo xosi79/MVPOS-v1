@@ -9,7 +9,7 @@ export default function Layout({ children }) {
         <div className="space-x-4">
           <Link href="/" className="hover:underline">Home</Link>
           <Link href="/dashboard" className="hover:underline">Dashboard</Link>
-          <Link href="/login" className="hover:underline">Login</Link>
+          <Link href="/auth" className="hover:underline">Login</Link>
           <Link href="/about" className="hover:underline">About</Link>
         </div>
       </nav>

@@ -19,7 +19,7 @@ export default function dashboard() {
             setUser(data.user)
         } else {
         // if no user kick to login
-            router.push("/login")
+            router.push("/auth")
         }
 
         setLoading(false)
